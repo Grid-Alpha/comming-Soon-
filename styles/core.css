@@ -1,0 +1,21 @@
+*,::after,::before{
+    margin: 0;
+    padding: 0;
+}
+body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    padding: 1em .4em;
+}
+main{
+    padding: 1.4em 1em;
+}
+section{
+    padding: 1em .4em;
+
+}
+footer{
+    padding: 1em .4em;
+}
